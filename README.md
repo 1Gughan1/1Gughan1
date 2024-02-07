@@ -35,7 +35,7 @@ Getting Started:
 
 	1.	Clone the repository to your local machine:
 
-git clone [https://github.com/your-username/2-planar-robot-model.git](https://github.com/1Gughan1/2dof_manipulator)
+	git clone [https://github.com/your-username/2-planar-robot-model.git](https://github.com/1Gughan1/2dof_manipulator)
 
 
 	2.	Explore the /src directory for the source code and /docs for detailed documentation.
